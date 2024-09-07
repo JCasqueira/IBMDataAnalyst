@@ -1,3 +1,3 @@
 # IBMDataAnalyst
 
-GameStopvsTesla
+GameStop vs Tesla Ungraded project
